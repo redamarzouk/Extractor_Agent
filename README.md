@@ -12,5 +12,3 @@ If you want to use this component on your own invoices it will still work using 
 The component is using Regular Expressions to match data so it will still work on readable pdf files.
 
 The Invoice identifier is directly substracted for the invoice file name, even if it's not a number it will be always detected.
-
-https://www.youtube.com/watch?v=k_s_5N67kW8&t
