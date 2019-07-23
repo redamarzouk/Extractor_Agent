@@ -10,4 +10,3 @@ The component is using Regular Expressions to match data so it will still work o
 
 the Invoice identifier is directly substracted for the invoice file name, even if it's not a number it will be always detected.
 
-For further queries, contact me on linkedin: https://www.linkedin.com/in/reda-marzouk-a28639130/
